@@ -21,7 +21,7 @@ For the physical build and software setup instructions see the file "docs/Skittl
 Good luck!
 
 ## Authors ##
-- Vinay Nadig nadvinay@amazon.com
 - Vijay Menon vijaym@amazon.com 
+- Jasmine Maheshwari jmaheshw@amazon.com
 
 
